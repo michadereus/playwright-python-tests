@@ -1,4 +1,4 @@
-# Playwright Automation Tests (Python)
+# Playwright Automation Tests
 
 This project demonstrates automated UI testing using Playwright and Python.
 
