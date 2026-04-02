@@ -29,6 +29,7 @@ pytest
 
 ## Repository Structure
 
+```
 playwright-python-tests/
 │
 ├── tests/
@@ -41,4 +42,5 @@ playwright-python-tests/
 │   └── test_invalid_email.py
 │
 ├── requirements.txt
-└─  README.md
+└── README.md
+```
